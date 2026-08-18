@@ -1,0 +1,10 @@
+{
+  "name": "Remix BuyWise AI",
+  "description": "Smart Purchase \u0026 Warranty Manager powered by Gemini AI. Extract receipts, track return deadlines \u0026 warranties, and analyze spending.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
